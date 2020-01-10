@@ -1,4 +1,4 @@
-N° ticket;Qté;DateAchat;CodeArticle
+ticket;quantity;created;code
 10400;1;30-sept-19;TR0024
 10400;1;30-sept-19;FR1214
 10400;3;30-sept-19;FR1220
